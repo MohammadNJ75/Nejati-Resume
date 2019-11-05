@@ -1,0 +1,67 @@
+{
+    "title":"Hello I'm Mohammad Nejati",
+    "subtitle":"React Developer !! Android Developer !! Web Programmer",
+    "links":{
+        "github":"https://github.com/MohammadNJ75",
+        "stackoverflow":"https://stackoverflow.com/users/12299084/mohammad-nejati"
+
+            },
+    "sections":[
+        {
+            "title":"About Me",
+            "content":"I love coding and coding is a part of my life feel free to contact with me in gmail and I will be happy to talk with U about Your Jobs.I have started coding for 2years since 2017 and i found it awesome and I'm getting used to it with my soul .Mobile programming and web developing with html css wordpress and so on is really cool and i will be happy to playing with Codes every Day.By the way Im from Iran (Tehran) and i will imrpove my skills every day pass in my life.Thanks for your Time"
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "Content":{
+                        "Image":"/images/react.png",
+                        "title":"react"
+                    }
+                },
+                {
+                    "type":"card",
+                    "Content":{
+                        "Image":"/images/Html.png",
+                        "title":"html"
+                    }
+                },
+                {
+                    "type":"card",
+                    "Content":{
+                        "Image":"/images/css.png",
+                        "title":"css"
+                    }
+                },
+                {
+                    "type":"card",
+                    "Content":{
+                        "Image":"/images/java-script.png",
+                        "title":"javascript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "Content":{
+                        "Image":"/images/android.png",
+                        "title":"Android"
+                    }
+                },
+                {
+                    "type":"card",
+                    "Content":{
+                        "Image":"/images/cisco.png",
+                        "title":"Cisco"
+                    }
+                }
+            ]
+        }
+    ],
+    "Icons":{
+        "down":"images/down1.png",
+        "Color":"images/magic-wand.png"
+
+    }
+}

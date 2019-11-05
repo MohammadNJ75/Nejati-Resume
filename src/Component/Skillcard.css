@@ -1,0 +1,10 @@
+.card{
+    flex-direction: row-reverse;
+}
+.image-wrapper{
+    flex-direction: row;
+
+}
+.skill-title-wrapper{
+    flex-direction: row;
+}
