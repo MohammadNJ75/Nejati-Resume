@@ -7,7 +7,6 @@ class Fullpage extends Component{
     constructor(props) {
         super(props);
         this.state = {
-        backgroundColor:"blue"
         };
     }
     ChangeBackgroundColor = () => {
