@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nejati-Resume/static/css/main.9c5b7aea.chunk.css",
+    "main.js": "/Nejati-Resume/static/js/main.eb4624a5.chunk.js",
+    "main.js.map": "/Nejati-Resume/static/js/main.eb4624a5.chunk.js.map",
+    "runtime-main.js": "/Nejati-Resume/static/js/runtime-main.6f930bf4.js",
+    "runtime-main.js.map": "/Nejati-Resume/static/js/runtime-main.6f930bf4.js.map",
+    "static/js/2.8b86cf8e.chunk.js": "/Nejati-Resume/static/js/2.8b86cf8e.chunk.js",
+    "static/js/2.8b86cf8e.chunk.js.map": "/Nejati-Resume/static/js/2.8b86cf8e.chunk.js.map",
+    "index.html": "/Nejati-Resume/index.html",
+    "precache-manifest.572f8b82e620a8fff74cc4f9d1534cc6.js": "/Nejati-Resume/precache-manifest.572f8b82e620a8fff74cc4f9d1534cc6.js",
+    "service-worker.js": "/Nejati-Resume/service-worker.js",
+    "static/css/main.9c5b7aea.chunk.css.map": "/Nejati-Resume/static/css/main.9c5b7aea.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f930bf4.js",
+    "static/js/2.8b86cf8e.chunk.js",
+    "static/css/main.9c5b7aea.chunk.css",
+    "static/js/main.eb4624a5.chunk.js"
+  ]
+}
